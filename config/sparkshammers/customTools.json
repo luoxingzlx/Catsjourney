@@ -1,0 +1,139 @@
+[
+    {
+        "MaterialName": "mini",
+        "LocalisedName": "Mini",
+        "HarvestLevel": 2,
+        "Durability": 750,
+        "Efficiency": 3.5999999046325684,
+        "AttackDamage": 3.5,
+        "Enchantability": 14
+    },
+    {
+        "MaterialName": "netherstar",
+        "LocalisedName": "Nether Star",
+        "HarvestLevel": 3,
+        "Durability": 10,
+        "Efficiency": 5.0,
+        "AttackDamage": 40.0,
+        "Enchantability": 0
+    },
+    {
+        "MaterialName": "powered",
+        "LocalisedName": "Powered",
+        "HarvestLevel": 2,
+        "Durability": 1500,
+        "Efficiency": 3.0,
+        "AttackDamage": 3.0,
+        "Enchantability": 0
+    },
+    {
+        "MaterialName": "bronze",
+        "LocalisedName": "Bronze",
+        "HarvestLevel": 2,
+        "Durability": 2000,
+        "Efficiency": 4.800000190734863,
+        "AttackDamage": 5.0,
+        "Enchantability": 11,
+        "TextureColour": 15506763,
+        "DependantOreDic": "ingotBronze"
+    },
+    {
+        "MaterialName": "steel",
+        "LocalisedName": "Steel",
+        "HarvestLevel": 2,
+        "Durability": 4000,
+        "Efficiency": 4.800000190734863,
+        "AttackDamage": 5.0,
+        "Enchantability": 15,
+        "TextureColour": 13490908,
+        "DependantOreDic": "ingotSteel"
+    },
+    {
+        "MaterialName": "obsidian",
+        "LocalisedName": "Obsidian",
+        "HarvestLevel": 1,
+        "Durability": 6000,
+        "Efficiency": 2.4000000953674316,
+        "AttackDamage": 3.0,
+        "Enchantability": 5,
+        "TextureColour": 3155018,
+        "DependantOreDic": "obsidian"
+    },
+    {
+        "MaterialName": "terrasteel",
+        "LocalisedName": "Terrasteel",
+        "HarvestLevel": 4,
+        "Durability": 12000,
+        "Efficiency": 6.400000095367432,
+        "AttackDamage": 6.0,
+        "Enchantability": 26,
+        "TextureColour": 10221420,
+        "DependantOreDic": "ingotTerrasteel"
+    },
+    {
+        "MaterialName": "copshowium",
+        "LocalisedName": "Copshowium",
+        "HarvestLevel": 3,
+        "Durability": 5000,
+        "Efficiency": 4.700000047683716,
+        "AttackDamage": 5.0,
+        "Enchantability": 20,
+        "TextureColour": 19513719,
+        "DependantOreDic": "ingotCopshowium"
+    },
+    {
+        "MaterialName": "enderium",
+        "LocalisedName": "Enderium",
+        "HarvestLevel": 3,
+        "Durability": 6000,
+        "Efficiency": 4.700000047683716,
+        "AttackDamage": 5.0,
+        "Enchantability": 20,
+        "TextureColour": 09103112,
+        "DependantOreDic": "ingotEnderium"
+    },
+    {
+        "MaterialName": "cobalt",
+        "LocalisedName": "Cobalt",
+        "HarvestLevel": 4,
+        "Durability": 6000,
+        "Efficiency": 6.700000047683716,
+        "AttackDamage": 5.0,
+        "Enchantability": 20,
+        "TextureColour": 30142189,
+        "DependantOreDic": "ingotCobalt"
+    },
+    {
+        "MaterialName": "fiery",
+        "LocalisedName": "Fiery",
+        "HarvestLevel": 3,
+        "Durability": 6000,
+        "Efficiency": 4.700000047683716,
+        "AttackDamage": 5.0,
+        "Enchantability": 15,
+        "TextureColour": 19012874,
+        "DependantOreDic": "ingotFiery"
+    },
+    {
+        "MaterialName": "hastelloy",
+        "LocalisedName": "Hastelloy",
+        "HarvestLevel": 4,
+        "Durability": 9000,
+        "Efficiency": 4.700000047683716,
+        "AttackDamage": 5.0,
+        "Enchantability": 15,
+        "TextureColour": 146146146,
+        "DependantOreDic": "ingotHastelloy"
+    },
+    {
+        "MaterialName": "widia",
+        "LocalisedName": "Widia",
+        "HarvestLevel": 4,
+        "Durability": 9000,
+        "Efficiency": 5.700000047683716,
+        "AttackDamage": 5.0,
+        "Enchantability": 15,
+        "TextureColour": 6706258,
+        "DependantOreDic": "ingotWidia"
+    }
+]

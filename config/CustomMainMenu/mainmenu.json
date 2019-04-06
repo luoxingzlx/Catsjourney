@@ -1,0 +1,236 @@
+{
+    "images":
+    {
+		"modpack":
+		{
+            "image" : "mainmenu:modpack.png",
+            "posX" : -64,
+            "posY" : -140,
+            "height" : 128,
+            "width" : 128,
+            "imageWidth": 612,
+            "imageHeight": 512,
+            "alignment" : "center"
+		}
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 0,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 2,
+            "posY" : 0,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 2,
+            "posY" : 25,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 25,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -100,
+            "posY" : 50,
+            "width" : 200,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+        "language": {
+            "text" : "",
+            "posX" : 105,
+            "posY" : 25,
+            "width" : 20,
+            "height" : 20,
+			"tooltip": "Language",
+			"alignment" : "center",
+			"imageWidth": "40",
+			"imageHeight": "40",
+			"texture" : "mainmenu:lang.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -20,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+            "texture" : "mainmenu:refresh.png",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+
+    "labels":
+    {
+		"modpack":{
+			"text" : "The journey of the cat",
+            "posX" : 3,
+            "posY" : -42,
+			"fontSize" : 0.9,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"minecraft":{
+			"text" : "Minecraft #mcversion#",
+            "posX" : 3,
+            "posY" : -33,
+			"fontSize" : 0.9,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"forge":{
+			"text" : "Forge #forgeversion#",
+            "posX" : 3,
+            "posY" : -24,
+			"fontSize" : 0.9,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# Mods Loaded",
+            "posX" : 3,
+            "posY" : -15,
+			"fontSize" : 0.9,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsactive":{
+			"text" : "#modsactive# Mods Active",
+            "posX" : 3,
+            "posY" : -6,
+			"fontSize" : 0.9,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"newsLine1":{
+			"text" : "",
+            "posX" : 16,
+            "posY" : 16,
+			"fontSize" : 1.15,
+			"color" : 13048410,
+			"hoverColor" : 13048410,
+            "alignment" : "top_left"
+		},
+		"newsLine2":{
+			"text" : "",
+            "posX" : 16,
+            "posY" : 30,
+			"fontSize" : 1.15,
+            "color" : 13048410,
+			"hoverColor" : 13048410,
+            "alignment" : "top_left"
+		},
+		"newsLine3":{
+			"text" : "",
+            "posX" : 16,
+            "posY" : 44,
+			"fontSize" : 1.15,
+            "color" : 13048410,
+			"hoverColor" : 13048410,
+            "alignment" : "top_left"
+        },
+        "newsLine4":{
+			"text" : "",
+			"hoverText" : "",
+            "posX" : 16,
+            "posY" : 73,
+			"fontSize" : 1.25,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "top_left"
+		},
+		"mojang":
+        {
+            "text" : "Copyright Mojang AB",
+            "posX" : -65,
+            "posY" : -7,
+			"fontSize" : 0.9,
+            "color" : -1,
+            "hoverColor" : -1,
+            "hoverText" : "§nCopyright Mojang AB",
+            "alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        }
+    },
+
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:background.png",
+			"mode" : "stretch"
+		}
+    }
+}

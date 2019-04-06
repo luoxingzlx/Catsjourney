@@ -1,0 +1,249 @@
+{
+  "biome": "biomesoplenty:fungi_forest",
+  "weight": 4,
+  "enabled": true,
+  "genDefaultFeatures": true,
+  "entities": [
+    {
+      "entity": "minecraft:ghast",
+      "creatureType": "monster",
+      "weight": 50,
+      "minGroupCount": 4,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "minecraft:zombie_pigman",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "minecraft:magma_cube",
+      "creatureType": "monster",
+      "weight": 2,
+      "minGroupCount": 4,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "minecraft:enderman",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 4,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "thaumcraft:firebat",
+      "creatureType": "monster",
+      "weight": 10,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "thaumcraft:wisp",
+      "creatureType": "monster",
+      "weight": 5,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:succubus",
+      "creatureType": "monster",
+      "weight": 16,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:wither_cow",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:baphomet",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "minecraft:blaze",
+      "creatureType": "monster",
+      "weight": 5,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "quark:wraith",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 4,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:succubus",
+      "creatureType": "monster",
+      "weight": 32,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:wither_cow",
+      "creatureType": "monster",
+      "weight": 16,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:baphomet",
+      "creatureType": "monster",
+      "weight": 16,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "primal:creeper_nether",
+      "creatureType": "monster",
+      "weight": 3,
+      "minGroupCount": 0,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 90,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "matteroverdrive:rogue_android",
+      "creatureType": "monster",
+      "weight": 25,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "matteroverdrive:ranged_rogue_android",
+      "creatureType": "monster",
+      "weight": 25,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "primal:creeper_nether",
+      "creatureType": "monster",
+      "weight": 3,
+      "minGroupCount": 0,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 90,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "weeping-angels:weepingangel",
+      "creatureType": "monster",
+      "weight": 50,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "minecraft:blaze",
+      "creatureType": "monster",
+      "weight": 5,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "quark:wraith",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 4,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:succubus",
+      "creatureType": "monster",
+      "weight": 16,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:wither_cow",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:baphomet",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "matteroverdrive:rogue_android",
+      "creatureType": "monster",
+      "weight": 25,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "matteroverdrive:ranged_rogue_android",
+      "creatureType": "monster",
+      "weight": 25,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "primal:creeper_nether",
+      "creatureType": "monster",
+      "weight": 3,
+      "minGroupCount": 0,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 90,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
+    }
+  ],
+  "features": []
+}

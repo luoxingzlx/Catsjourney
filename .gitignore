@@ -1,0 +1,35 @@
+# 将根目录下所有文件设为黑名单.
+*/*
+
+# 白名单.
+!.gitattributes
+!.gitignore
+!Changelog.txt
+!LICENSE
+!README.md
+!manifest.json
+!modlist.html
+
+# 白名单，脚本，配置文件，唱片数据，模组列表
+!config/*
+!scripts/*
+!betterrecords/*
+!resources/*
+
+#单独禁用的文件
+.ReAuth.cfg
+crafttweaker.log
+ExtraBotanyVars.dat
+hs_err_pid9504.log
+icon.png
+knownkeys.txt
+OpenComputersMod-1.7.3.146-lua52-native.64.dll
+OpenComputersMod-1.7.3.146-lua53-native.64.dll
+options.txt
+patchouli_data.json
+usercache.json
+usernamecache.json
+WailaErrorOutput.txt
+目录列表.bat
+BotaniaVars.dat
+concheckrmd

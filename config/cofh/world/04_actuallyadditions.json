@@ -1,0 +1,26 @@
+{
+  "dependencies": "actuallyadditions",
+  "populate": {
+    "black_quartz_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {"name": "actuallyadditions:block_misc", "metadata": 3, "weight": 100}
+        ],
+        "material": "minecraft:stone",
+        "cluster-size": 0
+      },
+      "min-height": 0,
+      "max-height": 0,
+      "cluster-count": 0,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -11325
+        ]
+      }
+    }
+  }
+}

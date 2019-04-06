@@ -1,0 +1,26 @@
+{
+    "dependencies": "practicallogistics2",
+    "populate": {
+      "sapphireore": {
+        "distribution": "uniform",
+        "generator": {
+          "block": [
+            {"name": "practicallogistics2:sapphireore", "weight": 100}
+          ],
+          "material": "minecraft:stone",
+          "cluster-size": 0
+        },
+        "min-height": 0,
+        "max-height": 0,
+        "cluster-count": 0,
+        "retrogen": "true",
+        "biome": "all",
+        "dimension": {
+          "restriction": "whitelist",
+          "value": [
+            -11325
+          ]
+        }
+      }
+    }
+  }
