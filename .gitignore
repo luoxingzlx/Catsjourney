@@ -15,8 +15,10 @@
 !scripts/*
 !betterrecords/*
 !resources/*
+!tool/*
 
 #单独禁用的文件
+scripts/.zsrc
 .ReAuth.cfg
 crafttweaker.log
 ExtraBotanyVars.dat
@@ -30,6 +32,6 @@ patchouli_data.json
 usercache.json
 usernamecache.json
 WailaErrorOutput.txt
-目录列表.bat
 BotaniaVars.dat
 concheckrmd
+
