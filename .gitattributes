@@ -1,0 +1,7 @@
+*.html linguist-language=java
+*.xml linguist-language=java
+*.txt linguist-language=java
+*.cfg linguist-language=java
+*.dll linguist-language=java
+*.exe linguist-language=java
+*.jar linguist-language=java
