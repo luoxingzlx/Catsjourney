@@ -661,22 +661,6 @@
       "spawn": true
     },
     {
-      "entity": "matteroverdrive:rogue_android",
-      "creatureType": "monster",
-      "weight": 25,
-      "minGroupCount": 1,
-      "maxGroupCount": 2,
-      "spawn": true
-    },
-    {
-      "entity": "matteroverdrive:ranged_rogue_android",
-      "creatureType": "monster",
-      "weight": 25,
-      "minGroupCount": 1,
-      "maxGroupCount": 2,
-      "spawn": true
-    },
-    {
       "entity": "primal:creeper_nether",
       "creatureType": "monster",
       "weight": 3,
@@ -685,11 +669,91 @@
       "spawn": true
     },
     {
-      "entity": "iceandfire:deathworm",
+      "entity": "primal:ovis_atre",
       "creatureType": "creature",
-      "weight": 2,
+      "weight": 90,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "animania:hamster",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:sow_large_black",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:doe_nigerian_dwarf",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:doe_jack",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 90,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "techguns:tgdummyspawn",
+      "creatureType": "monster",
+      "weight": 300,
       "minGroupCount": 1,
       "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "animania:hamster",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:sow_large_black",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:doe_nigerian_dwarf",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:doe_jack",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
       "spawn": true
     },
     {

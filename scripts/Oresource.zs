@@ -1,9 +1,7 @@
 //#采石场,镭射钻,矿工透镜
 recipes.remove(<industrialforegoing:laser_drill>);
 recipes.remove(<industrialforegoing:laser_base>);
-recipes.remove(<actuallyadditions:item_mining_lens>);
-recipes.remove(<extrautils2:quarry>);
-recipes.remove(<extrautils2:quarryproxy>);
+
 
 
 //#UU

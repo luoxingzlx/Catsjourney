@@ -181,27 +181,27 @@
       "spawn": true
     },
     {
-      "entity": "matteroverdrive:rogue_android",
-      "creatureType": "monster",
-      "weight": 25,
-      "minGroupCount": 1,
-      "maxGroupCount": 2,
-      "spawn": true
-    },
-    {
-      "entity": "matteroverdrive:ranged_rogue_android",
-      "creatureType": "monster",
-      "weight": 25,
-      "minGroupCount": 1,
-      "maxGroupCount": 2,
-      "spawn": true
-    },
-    {
       "entity": "primal:creeper_nether",
       "creatureType": "monster",
       "weight": 3,
       "minGroupCount": 0,
       "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primal:ovis_atre",
+      "creatureType": "creature",
+      "weight": 90,
+      "minGroupCount": 1,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "techguns:tgdummyspawn",
+      "creatureType": "monster",
+      "weight": 300,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
       "spawn": true
     },
     {

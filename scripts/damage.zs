@@ -39,3 +39,24 @@
 <minecraft:diamond_axe>.maxDamage = 2;
 <minecraft:diamond_hoe>.maxDamage = 2;
 
+//#十字架*10
+<xreliquary:mercy_cross:33>.maxDamage = 640;
+
+//#银制武器*5
+<spartanweaponry:katana_silver>.maxDamage = 240;
+<spartanweaponry:hammer_silver>.maxDamage = 240;
+<spartanweaponry:halberd_silver>.maxDamage = 240;
+<spartanweaponry:battleaxe_silver>.maxDamage = 240;
+<spartanweaponry:warhammer_silver>.maxDamage = 240;
+<spartanweaponry:pike_silver>.maxDamage = 240;
+<spartanweaponry:longsword_silver>.maxDamage = 240;
+<spartanweaponry:spear_silver>.maxDamage = 240;
+<spartanweaponry:rapier_silver>.maxDamage = 240;
+<spartanweaponry:lance_silver>.maxDamage = 240;
+<spartanweaponry:mace_silver>.maxDamage = 240;
+<spartanweaponry:dagger_silver>.maxDamage = 240;
+<spartanweaponry:saber_silver>.maxDamage = 240;
+<spartanweaponry:greatsword_silver>.maxDamage = 240;
+
+<spartanweaponry:longbow_silver>.maxDamage = 360;
+<spartanweaponry:crossbow_silver>.maxDamage = 360;

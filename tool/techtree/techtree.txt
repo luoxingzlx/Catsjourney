@@ -1,0 +1,166 @@
+stage flint primal survivalist[
+    mobstage Eden
+]
+stage copper charcoal_pit advancedmortars crossroads zen:foundry
+stage bronze charcoal_pit tconstruct crossroads essentials techreborn tinkersforging nex
+[ 
+    stage copshowium [
+        mobstage paradiselost/flower
+    ]
+]
+stage pigiron primal railcraft
+[
+    mobstage Mask
+]
+stage iron factorytech magneticraft evilcraft bloodmagic
+stage steel immersiveengineering techreborn naturesaura botania
+[
+    stage firesteel twilightforest toughexpansion
+]
+stage aluminum techreborn immersivepetroleum rockhounding_chemistry enderio aether_legacy
+[
+    mobstage Laputa
+]
+stage Stainless steel/chromium immersiveengineering techreborn industrialforegoing appliedenergistics2 techguns
+[
+    mobstage MiddleEarth
+]
+stage Tungsten steel/Tungsten rockhounding_chemistry fp angels  appliedenergistics2 powersuits
+[
+    mobstage StarTrek
+]
+stage titanium advancedrocketry techguns extrabotany appliedenergistics2 sgcraft appliedenergistics2 academy
+[
+    mobstage MechanicalEra
+]
+stage uranium nuclearcraft advancedrocketry
+[
+    mobstage Borderlands
+]
+stage End
+
+中压化工EIO
+高压开始聚乙烯做外壳 同时使用IF EIO
+超高压 上天
+
+
+
+
+academy
+advancedmortars
+advancedrocketry
+advgenerators
+aether_legacy
+animania
+appliedenergistics2
+armoreablemobs
+betterrecords
+bibliocraft
+bloodmagic
+botania
+botania_tweaks
+buildersguides
+buildinggadgets
+capsule
+ceramics
+charcoal_pit
+charset
+chisel
+cofhworld
+commoncapabilities
+compatskills
+consecration
+crossroads
+cuisine
+customoregen
+customstuff4
+danknull
+defaultworldgenerator-port
+dimensionalcontrol
+doggytalents
+enderio
+enderioendergy
+essentials
+evilcraft
+extendedcrafting
+extrabotany
+factorytech
+farmingforblockheads
+fp
+fxcontrol
+gamestages
+grimoireofgaia
+harderfarming
+harderores
+headcrumbs
+horsetweaks
+hotornot
+iceandfire
+ignitehud
+immersiveengineering
+immersivepetroleum
+improvedmobs
+industrialforegoing
+industrialrenewal
+inspirations
+integrateddynamics
+integrateddynamicscompat
+inventorypets
+ironchest
+justenoughdimensions
+kuronekosgift
+littletiles
+loottweaker
+magneticraft
+mob_grinding_utils
+mobspropertiesrandomness
+mobstages
+modulardiversity
+modularmachinery
+moreplates
+naturesaura
+naturescompass
+nex
+nuclearcraft
+nutrition
+openmodularturrets
+oreflowers
+platforms
+plustic
+powerchisels
+pressure
+primal
+psi
+quark
+railcraft
+recipestages
+reskillable
+restrictedportals
+rockhounding_chemistry
+rockhounding_core
+sereneseasons
+sgcraft
+sparkshammers
+spartanshields
+spartanweaponry
+spiceoflife
+stackable
+stevescarts
+stg
+storagedrawers
+survivalist
+tconstruct
+techguns
+techreborn
+tesla
+tinker_io
+tinkersforging
+toolprogression
+toughasnails
+treechopper
+twilightforest
+waystones
+weeping-angels
+xreliquary
+zettaindustries
+

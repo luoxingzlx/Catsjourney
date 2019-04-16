@@ -49,9 +49,6 @@ JEI.hide(<botania:specialflower>.withTag({type: "orechid"}));
 JEI.hide(<botania:specialflower>.withTag({type: "orechidIgnem"}));
 JEI.hide(<botania:floatingspecialflower>.withTag({type: "orechidIgnem"}));
 JEI.hide(<botania:floatingspecialflower>.withTag({type: "orechid"}));
-JEI.hide(<extrautils2:quarryproxy>);
-JEI.hide(<extrautils2:quarry>);
-JEI.hide(<actuallyadditions:item_mining_lens>);
 JEI.hide(<industrialforegoing:laser_base>);
 JEI.hide(<industrialforegoing:laser_drill>);
 
@@ -63,7 +60,7 @@ JEI.hide(<enderio:item_material:5>);
 JEI.hide(<nuclearcraft:gem:6>);
 
 //#粉
-JEI.hide(<actuallyadditions:item_dust:2>);
+
 
 //#板
 JEI.hide(<primal:diamond_plate>);

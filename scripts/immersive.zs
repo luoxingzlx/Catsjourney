@@ -3,9 +3,7 @@ import mods.immersiveengineering.ArcFurnace;
 //#电弧高炉移除
 mods.immersiveengineering.ArcFurnace.removeRecipe(<enderio:item_alloy_ingot>);
 
-
 //#电弧高炉添加
-mods.immersiveengineering.ArcFurnace.addRecipe(<actuallyadditions:item_misc:5>, <actuallyadditions:item_dust:7>, <immersiveengineering:material:7>, 400, 2048);
 
 //#矿脉移除
 mods.immersiveengineering.Excavator.removeMineral("Bauxite");
