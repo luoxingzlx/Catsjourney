@@ -46,46 +46,81 @@ rock
 闪蒸炉
 旋风分离器
 
-破乳剂(甲醇/乙醇/水)
-破乳原油
+破乳剂(甲醇/乙醇/水)/
+破乳原油/
 热油(MGC热油)
-低氯水
-一级脱盐原油
-脱盐原油
-脱硫原油
-脱硫原油<热>(
-塔底油
+低氯水/
+一级脱盐原油/
+脱盐原油/
+脱硫原油/
+脱硫原油<热>/
+塔底油/
 蜡油(primcore石蜡)
 渣油(MGC油渣)
-减一线
-石脑油
-塔底油
-轻脱沥青油
+减一线(减压蒸馏油vacuum_distillate_oil)/
+轻脱沥青油/
 重质馏分油(MGC重油)
-加氢混合的重质馏分油
-加氢混合的重质馏分油<热>
-加氢裂化的重质馏分油
-石脑油
-石脑油<热>
-加氢裂化石脑油
-裂解气<热>
-裂解气
-压缩裂解气I
-压缩裂解气II
-压缩裂解气III
-压缩裂解气IV
-压缩裂解气V
-碱洗裂解气
-加氢裂解气
-液化裂解气
-乙烷乙烯混合气
-乙烷
-乙烷
-混合浆液
-氢气乙烯混合液
-闪蒸浆液
-熔融聚乙烯
-硝酸铀酰
+加氢混合的重质馏分油/
+加氢混合的重质馏分油<热>/
+加氢裂化的重质馏分油/
+石脑油/
+石脑油<热>/
+加氢裂化石脑油/
+裂解气<热>/
+裂解气/
+压缩裂解气I/
+压缩裂解气II/
+压缩裂解气III/
+压缩裂解气IV/
+压缩裂解气V/
+碱洗裂解气/
+加氢裂解气/
+液化裂解气/
+乙烷乙烯混合气/
+乙烷/
+乙烯/
+混合浆液/
+氢气乙烯混合液/
+闪蒸浆液/
+熔融聚乙烯/
+硝酸铀酰/
+
+Demulsifier
+Demulsified crude oil
+Low chloride water
+Primary demineralized crude oil
+Desalted crude oil
+Desulfurized crude oil
+Desulfurized crude oil <hot>
+Tower oil
+Minus one line
+Naphtha
+Tower oil
+Lightly deasphalted oil
+Hydrogenated heavy distillate
+Hydrogenated heavy distillate oil <hot>
+Hydrocracked heavy distillate
+Naphtha
+Naphtha <hot>
+Hydrocracked naphtha
+Pyrolysis gas <hot>
+Pyrolysis gas
+Compressed cracked gas I
+Compressed cracked gas II
+Compressed cracked gas III
+Compressed cracked gas IV
+Compressed cracked gas V
+Alkaline washing cracked gas
+Hydrocracked gas
+Liquefied cracked gas
+Ethylene ethylene mixture
+Ethane
+Ethylene
+Mixed slurry
+Hydrogen ethylene mixture
+Flash slurry
+Molten polyethylene
+Uranyl nitrate
 
 脱硫剂(NiO+MgO+Al2O3)
 四氯化钛一氯二乙基铝催化剂
@@ -94,4 +129,15 @@ rock
 聚乙烯粒
 重铀酸氨(粉末)
 二氧化铀(粉末)
-六氟化铀粉末
+四氟化铀(粉末)
+六氟化铀(粉末)
+Desulfurizer (NiO+MgO+Al2O3)
+Titanium tetrachloride/diethyl monochloride aluminium/catalyst
+Polyethylene dust containing impurities
+Polyethylene dust
+Polyethylene particle
+Ammonium diuranate
+Uranium dioxide
+Uranium tetrafluoride
+Uranium hexafluoride
+
