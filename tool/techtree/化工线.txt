@@ -30,7 +30,7 @@ IE油田开采——矿脉（地层流体）——三相分离器——原油/�
 rock
 
 铀处理
-粉碎铀矿/黄饼——硝酸铀酰UO2(NO2)2(溶于硝酸)——萃取纯化——重铀酸氨(NH4)2U2O7(加氨)——二氧化铀UO2(加氢还原)——四氟化铀(氟化氢/氢氟酸500℃)——六氟化铀(加氟300—350℃)
+粉碎铀矿/黄饼——硝酸铀酰UO2(NO2)2(溶于硝酸)——萃取纯化——重铀酸氨(NH4)2U2O7(加氨)——煅烧三氧化铀——二氧化铀UO2(加氢还原)——四氟化铀(氟化氢/氢氟酸500℃)——六氟化铀(加氟300—350℃)
 ——铀/氟(NC电解分离)——铀235/铀238
 
 三相分离器
@@ -97,9 +97,9 @@ Minus one line
 Naphtha
 Tower oil
 Lightly deasphalted oil
-Hydrogenated heavy distillate
+Hydrogenated heavy distillate oil
 Hydrogenated heavy distillate oil <hot>
-Hydrocracked heavy distillate
+Hydrocracked heavy distillate oil
 Naphtha
 Naphtha <hot>
 Hydrocracked naphtha
@@ -122,22 +122,24 @@ Flash slurry
 Molten polyethylene
 Uranyl nitrate
 
-脱硫剂(NiO+MgO+Al2O3)
-四氯化钛一氯二乙基铝催化剂
-含杂聚乙烯粉末
-聚乙烯粉末
-聚乙烯粒
-重铀酸氨(粉末)
-二氧化铀(粉末)
-四氟化铀(粉末)
-六氟化铀(粉末)
+脱硫剂(NiO+MgO+Al2O3)/
+四氯化钛一氯二乙基铝催化剂/
+含杂聚乙烯粉末/
+聚乙烯粉末/
+聚乙烯粒/
+重铀酸氨(粉末)/
+三氧化铀/
+二氧化铀(粉末)/
+四氟化铀(粉末) /
+六氟化铀(粉末)/
 Desulfurizer (NiO+MgO+Al2O3)
 Titanium tetrachloride/diethyl monochloride aluminium/catalyst
 Polyethylene dust containing impurities
 Polyethylene dust
 Polyethylene particle
 Ammonium diuranate
+Uranium Trioxide
 Uranium dioxide
-Uranium tetrafluoride
+Uranium tetrafluoride X
 Uranium hexafluoride
 
