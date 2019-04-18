@@ -1,0 +1,51 @@
+{
+    "machine": "mana",
+    "registryName": "mana_produce",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:diamond",
+            "amount": 1
+        },
+        {
+            "type": "mana",
+            "io-type": "input",
+            "mana": 2000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "empowered_pink_slime",
+            "amount": 1000
+        },
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 1000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:stone",
+            "amount": 1
+        },
+        {
+            "type": "mana",
+            "io-type": "output",
+            "mana": 2000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "empowered_pink_slime",
+            "amount": 1000
+        }
+    ]
+}
