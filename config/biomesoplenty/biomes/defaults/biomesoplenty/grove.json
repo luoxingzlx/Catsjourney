@@ -32,7 +32,7 @@
     }
   },
   "fogColor": -1,
-  "temperature": 0.55,
+  "temperature": 0.6,
   "canGenerateVillages": true,
   "canSpawnInBiome": true,
   "enableSnow": false,

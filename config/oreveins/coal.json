@@ -1,0 +1,57 @@
+{
+  "coal_rich": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"minecraft:coal_ore",
+        "weight":90
+      },
+      {
+        "block":"pyrotech:fossil_ore",
+        "weight":10
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 30,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 80,
+    "density": 80,
+    "vertical_size": 16,
+    "horizontal_size": 10,
+    "biomes": [
+      "swamp",
+      "dead_swamp",
+      "lush_swamp",
+      "river",
+      "frozen_river"
+    ],
+    "dimensions": [
+      "0"
+    ]
+  },
+  "coal_lean": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"minecraft:coal_ore",
+        "weight":90
+      },
+      {
+        "block":"pyrotech:fossil_ore",
+        "weight":10
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 10,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 80,
+    "density": 40,
+    "vertical_size": 16,
+    "horizontal_size": 10,
+    "dimensions": [
+      "0"
+    ]
+  }
+}

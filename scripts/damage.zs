@@ -23,8 +23,7 @@
 <spartanweaponry:crossbow_silver>.maxDamage = 360;
 
 //##燧石手斧*0.25
-<primal:flint_hatchet>.maxDamage = 50;
-<primal:bone_hatchet>.maxDamage = 50;
+
 
 //##钻石0
 <minecraft:diamond_shovel>.maxDamage = 1;

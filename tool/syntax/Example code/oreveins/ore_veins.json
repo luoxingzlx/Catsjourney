@@ -1,0 +1,295 @@
+{
+  "harderores_iron": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"harderores:ore_hardiron",
+        "meta": 0,
+        "weight":10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 1,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 2,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 3,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 4,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 5,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 6,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 7,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 8,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 9,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 10,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 11,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 12,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 13,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 14,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 15,
+        "weight": 2
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 10,
+    "count": 1,
+    "min_y": 16,
+    "max_y": 64,
+    "density": 80,
+    "vertical_size": 20,
+    "horizontal_size": 10,
+    "biomes": [
+      "cold"
+    ],
+    "dimensions": [
+      "0",
+      "-1",
+      "1"
+    ]
+  },
+  "harderores_iron_1": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 0,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 1,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 2,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 3,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 4,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 5,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 6,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 7,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 8,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 9,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 10,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 11,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 12,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 13,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 14,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 15,
+        "weight": 2
+      }
+    ],
+    "stone": "minecraft:netherrack",
+    "rarity": 10,
+    "count": 1,
+    "min_y": 80,
+    "max_y": 120,
+    "density": 80,
+    "vertical_size": 20,
+    "horizontal_size": 10,
+    "dimensions": [
+      "-1"
+    ]
+  },
+  "harderores_iron_2": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 0,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 1,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 2,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 3,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 4,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 5,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 6,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 7,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 8,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 9,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 10,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 11,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 12,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 13,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 14,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardiron",
+        "meta": 15,
+        "weight": 2
+      }
+    ],
+    "stone": "minecraft:end_stone",
+    "rarity": 10,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 100,
+    "density": 80,
+    "vertical_size": 20,
+    "horizontal_size": 10,
+    "dimensions": [
+      "1"
+    ]
+  }
+}

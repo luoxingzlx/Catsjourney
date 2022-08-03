@@ -757,11 +757,227 @@
       "spawn": true
     },
     {
-      "entity": "primal:ovis_atre",
-      "creatureType": "creature",
-      "weight": 90,
+      "entity": "quark:foxhound",
+      "creatureType": "monster",
+      "weight": 10,
       "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "quark:wraith",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 4,
       "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:ant",
+      "creatureType": "monster",
+      "weight": 30,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:ant_ranger",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:mummy",
+      "creatureType": "monster",
+      "weight": 200,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:anubis",
+      "creatureType": "monster",
+      "weight": 160,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:creep",
+      "creatureType": "monster",
+      "weight": 160,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:ender_eye",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:arachne",
+      "creatureType": "monster",
+      "weight": 160,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:chest",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:deathword",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:bone_knight",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:flesh_lich",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:creep",
+      "creatureType": "monster",
+      "weight": 160,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:ender_eye",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:arachne",
+      "creatureType": "monster",
+      "weight": 160,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:chest",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:deathword",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:bone_knight",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:flesh_lich",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:succubus",
+      "creatureType": "monster",
+      "weight": 32,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:wither_cow",
+      "creatureType": "monster",
+      "weight": 16,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:baphomet",
+      "creatureType": "monster",
+      "weight": 16,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "techguns:tgdummyspawn",
+      "creatureType": "monster",
+      "weight": 300,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "animania:hamster",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:sow_large_black",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:doe_nigerian_dwarf",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "animania:doe_jack",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
       "spawn": true
     }
   ],

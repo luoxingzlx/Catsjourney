@@ -5,7 +5,6 @@ import crafttweaker.oredict.IOreDictEntry;
 
 //##木炭块统一
 recipes.remove(<rockhounding_chemistry:misc_blocks_a:11>);
-recipes.remove(<zettaindustries:charcoalblock>);
 recipes.remove(<chisel:block_charcoal2:1>);
 recipes.remove(<chisel:block_charcoal2:1>);
 recipes.addShapeless(<minecraft:coal:1>, [<rockhounding_chemistry:misc_blocks_a:11>]);
@@ -98,10 +97,6 @@ furnace.remove(<techreborn:nuggets>);
 //#移除所有板的工作台合成
 mods.unidict.removalByKind.get("Crafting").remove("plate");
 
-//#primalcore板合成删除
-furnace.remove(<primal:obsidian_plate>);
-furnace.remove(<primal:diamond_plate>);
-
 //#移除moreplates锤子合成
 recipes.remove(<moreplates:hammer>);
 
@@ -141,34 +136,9 @@ recipes.remove(<chisel:block_charcoal2>);
 <ore:itemSilicon>.remove(<libvulpes:productingot:3>);
 <ore:itemSilicon>.remove(<nuclearcraft:gem:6>);
 
-//#enderio齿轮添加IE冲压机合成
-mods.immersiveengineering.MetalPress.addRecipe(<enderio:item_material:11>, <ore:dustBedrock>, <immersiveengineering:mold:1>, 2400, 4);
-mods.immersiveengineering.MetalPress.addRecipe(<enderio:item_material:12>, <ore:ingotEnergeticAlloy>, <immersiveengineering:mold:1>, 2400, 4);
-mods.immersiveengineering.MetalPress.addRecipe(<enderio:item_material:13>, <ore:ingotVibrantAlloy>, <immersiveengineering:mold:1>, 2400, 4);
-mods.immersiveengineering.MetalPress.addRecipe(<enderio:item_material:73>, <ore:ingotDarkSteel>, <immersiveengineering:mold:1>, 2400, 4);
-
-//#部分板IE冲压机合成修复
-mods.immersiveengineering.MetalPress.removeRecipe(<techreborn:plates:37>);
-mods.immersiveengineering.MetalPress.removeRecipe(<advancedrocketry:productplate>);
-mods.immersiveengineering.MetalPress.removeRecipe(<advancedrocketry:productplate:1>);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:5>, <ore:dustDiamond>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:6>, <ore:dustEmerald>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:4>, <minecraft:redstone>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:10>, <ore:dustLazurite>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:9>, <ore:dustObsidian>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:8>, <ore:dustCoal>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:2>, <techreborn:part:34>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:15>, <ore:dustYellowGarnet>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:12>, <ore:dustSapphire>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:13>, <ore:dustPeridot>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:14>, <ore:dustRedGarnet>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<techreborn:plates:11>, <ore:dustRuby>, <immersiveengineering:mold>, 2400, 1);
-mods.immersiveengineering.MetalPress.addRecipe(<rockhounding_chemistry:alloy_parts:61>, <ore:ingotShibuichi>, <immersiveengineering:mold>, 2400, 1);
-
-//#AR棒IE冲压机移除
-mods.immersiveengineering.MetalPress.removeRecipe(<libvulpes:productrod:10>);
-mods.immersiveengineering.MetalPress.removeRecipe(<libvulpes:productrod:7>);
-mods.immersiveengineering.MetalPress.removeRecipe(<advancedrocketry:productrod>);
-mods.immersiveengineering.MetalPress.removeRecipe(<advancedrocketry:productrod:1>);
+//#enderio齿轮添加合成
 
 //#将所有木板合成更改为TR木板合成
+
+//#蓝石英添加石英矿辞
+<ore:gemQuartz>.add(<harderores:orechunks:25>);

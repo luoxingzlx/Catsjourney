@@ -1,0 +1,17 @@
+{
+  "redstone": {
+    "type": "cluster",
+    "ore": "minecraft:redstone_ore",
+    "stone": "minecraft:stone",
+    "rarity": 30,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 60,
+    "density": 50,
+    "vertical_size": 16,
+    "horizontal_size": 10,
+    "dimensions": [
+      "0"
+    ]
+  }
+}

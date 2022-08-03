@@ -1,5 +1,5 @@
 {
-  "enableRain": false,
+  "enableRain": true,
   "canGenerateRivers": false,
   "beachBiomeLocation": "biomesoplenty:gravel_beach",
   "rainfall": 0.0,

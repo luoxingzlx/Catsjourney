@@ -1,9 +1,7 @@
 import crafttweaker.item.IItemStack;
 import mods.jei.JEI;
 
-//#矿物隐藏
-JEI.hide(<immersiveengineering:ore:*>);
-
+//#矿物隐藏 JEI.hide(<immersiveengineering:ore:*>);
 
 //#无效,材质丢失,奔溃物品
 JEI.hide(<omlib:fake_sword>);
@@ -60,11 +58,13 @@ JEI.hide(<nuclearcraft:gem:6>);
 
 
 //#板
-JEI.hide(<primal:diamond_plate>);
-JEI.hide(<primal:carbon_plate>);
-JEI.hide(<primal:obsidian_plate>);
+
 
 //#基岩粉方块
 JEI.hide(<enderio:block_infinity>);
 JEI.hide(<enderio:block_infinity:1>);
 JEI.hide(<enderio:block_infinity:2>);
+
+//#重复粘土工具
+JEI.hide(<ceramics:clay_shears>);
+JEI.hide(<ceramics:clay_bucket>);

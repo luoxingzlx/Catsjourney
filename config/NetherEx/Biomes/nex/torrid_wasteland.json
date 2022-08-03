@@ -206,14 +206,6 @@
       "minGroupCount": 1,
       "maxGroupCount": 3,
       "spawn": true
-    },
-    {
-      "entity": "primal:ovis_atre",
-      "creatureType": "creature",
-      "weight": 90,
-      "minGroupCount": 1,
-      "maxGroupCount": 6,
-      "spawn": true
     }
   ],
   "features": [

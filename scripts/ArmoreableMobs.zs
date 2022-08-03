@@ -51,7 +51,6 @@ print("--- loading ArmoreableMobs.zs ---");
 	<twilightforest:giant_sword>,
 	<twilightforest:ice_sword>,
 	<twilightforest:glass_sword>,
-	<bloodmagic:sentient_sword>.withTag({}),
 	<twilightforest:minotaur_axe>,
 	<twilightforest:knightmetal_axe>,
 	<inventorypets:solstice_sword>.withTag({ench: [{lvl: 4 as short, id: 34 as short}, {lvl: 2 as short, id: 16 as short}, {lvl: 2 as short, id: 17 as short}]}),
@@ -100,7 +99,6 @@ print("--- loading ArmoreableMobs.zs ---");
 	<minecraft:bow>.withTag({ench: [{lvl: 3 as short, id: 34}, {lvl: 5 as short, id: 48}], RepairCost: 3}),
 	<minecraft:bow>.withTag({ench: [{lvl: 3 as short, id: 34}, {lvl: 1 as short, id: 50}], RepairCost: 3}),
 	<minecraft:bow>.withTag({ench: [{lvl: 3 as short, id: 34}, {lvl: 2 as short, id: 49}], RepairCost: 3}),
-	<immersiveengineering:shield>,
 	<extrabotany:manasteelshield>,
 	<extrabotany:elementiumshield>,
 	<extrabotany:terrasteelshield>,
@@ -230,13 +228,7 @@ print("--- loading ArmoreableMobs.zs ---");
 	vanillaGroup.addEntity(strayBoss);
 	
 # *======= Energy Armor =======*
-		
-	energyGroup.addArmor(ArmorHandler.createArmorSlot("head", <immersiveengineering:faraday_suit_head>, 10, 0.005));
-	energyGroup.addArmor(ArmorHandler.createArmorSlot("chest", <immersiveengineering:faraday_suit_chest>, 10, 0.005));
-	energyGroup.addArmor(ArmorHandler.createArmorSlot("legs", <immersiveengineering:faraday_suit_legs>, 10, 0.005));
-	energyGroup.addArmor(ArmorHandler.createArmorSlot("feet", <immersiveengineering:faraday_suit_feet>, 10, 0.005));
-
-	
+			
 	energyGroup.addEntity(zombie);
 	energyGroup.addEntity(zombieStrong);
 	energyGroup.addEntity(zombieBoss);

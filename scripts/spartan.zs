@@ -911,14 +911,14 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <spartanweaponry:dynamite>, [
 	[<ore:leather>, <ore:gunpowder>, <ore:leather>, null, null], 
 	[null, <ore:leather>, null, null, null]
 ]);
-mods.extendedcrafting.TableCrafting.addShaped(0, <spartanweaponry:arrow_iron>, [
+mods.extendedcrafting.TableCrafting.addShaped(0, <spartanweaponry:arrow_iron> * 8, [
 	[null, null, null, null, null], 
 	[null, null, <tconstruct:arrow_head>.withTag({Material: "iron"}), null, null], 
 	[null, null, <tconstruct:arrow_shaft>.withTag({Material: "wood"}), null, null], 
 	[null, null, <tconstruct:arrow_shaft>.withTag({Material: "wood"}), null, null], 
 	[null, <tconstruct:fletching>.withTag({Material: "feather"}), <tconstruct:arrow_shaft>.withTag({Material: "wood"}), <tconstruct:fletching>.withTag({Material: "feather"}), null]
 ]);
-mods.extendedcrafting.TableCrafting.addShaped(0, <spartanweaponry:bolt>, [
+mods.extendedcrafting.TableCrafting.addShaped(0, <spartanweaponry:bolt> * 8, [
 	[null, null, null, null, null], 
 	[null, null, null, null, null], 
 	[null, null, <tconstruct:arrow_head>.withTag({Material: "iron"}), null, null], 

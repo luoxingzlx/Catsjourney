@@ -7,8 +7,8 @@
   "guiColour": 12311907,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,
-  "variationBelow": 10.0,
-  "variationAbove": 35.0,
+  "variationBelow": 25.0,
+  "variationAbove": 55.0,
   "waterColor": 16777215,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
@@ -24,7 +24,7 @@
       "variant": "dirt"
     }
   },
-  "averageHeight": 63.0,
+  "averageHeight": 67.0,
   "topBlock": {
     "block": "minecraft:grass",
     "properties": {
@@ -45,7 +45,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 3.0,
+      "amountPerChunk": 1.0,
       "enable": true
     },
     "medium_lily": {
@@ -92,7 +92,7 @@
       "enable": true
     },
     "trees": {
-      "amountPerChunk": 20.0,
+      "amountPerChunk": 30.0,
       "enable": true,
       "generators": {}
     },
@@ -118,17 +118,6 @@
       "amountPerChunk": 0.1,
       "enable": true
     },
-    "flower_lily": {
-      "with": {
-        "block": "biomesoplenty:waterlily",
-        "properties": {
-          "variant": "flower"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.25,
-      "enable": true
-    },
     "flax": {
       "with": {
         "block": "biomesoplenty:double_plant",
@@ -149,7 +138,7 @@
       }
     },
     "grass": {
-      "amountPerChunk": 10.0,
+      "amountPerChunk": 15.0,
       "enable": true,
       "generators": {}
     },
@@ -173,7 +162,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 2.0,
+      "amountPerChunk": 0.5,
       "enable": true,
       "withTop": {
         "block": "biomesoplenty:double_plant",
@@ -262,7 +251,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 5.0,
+      "amountPerChunk": 7.0,
       "enable": true,
       "withTop": {
         "block": "minecraft:double_plant",

@@ -1,0 +1,231 @@
+{
+  "harderores_copper_rich": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"harderores:ore_hardcopper",
+        "meta": 0,
+        "weight":2
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 1,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 2,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 3,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 4,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 5,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 6,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 7,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 8,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 9,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 10,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 11,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 12,
+        "weight": 7
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 13,
+        "weight": 7
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 14,
+        "weight": 8
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 4,
+        "weight": 8
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 4,
+        "weight": 2
+      }
+      ,
+      {
+        "block": "harderores:ore_hardsilver",
+        "meta": 4,
+        "weight": 2
+      }
+      ,
+      {
+        "block": "harderores:ore_hardlead",
+        "meta": 4,
+        "weight": 3
+      }
+      ,
+      {
+        "block": "harderores:ore_hardzinc",
+        "meta": 4,
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 40,
+    "count": 1,
+    "min_y": 40,
+    "max_y": 80,
+    "density": 80,
+    "vertical_size": 16,
+    "horizontal_size": 10,
+    "biomes": [
+      "volcanic_island"
+    ],
+    "dimensions": [
+      "0"
+    ]
+  },
+  "harderores_copper_lean": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"harderores:ore_hardcopper",
+        "meta": 0,
+        "weight":5
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 1,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 2,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 3,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 4,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 5,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 6,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 7,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 8,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 9,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 10,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 11,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 12,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 13,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 14,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardcopper",
+        "meta": 15,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardnickel",
+        "meta": 5,
+        "weight": 10
+      }
+      ,
+      {
+        "block": "magneticraft:ores",
+        "meta": 4,
+        "weight": 10
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 20,
+    "count": 1,
+    "min_y": 40,
+    "max_y": 80,
+    "density": 80,
+    "vertical_size": 16,
+    "horizontal_size": 10,
+    "dimensions": [
+      "0"
+    ]
+  }
+}

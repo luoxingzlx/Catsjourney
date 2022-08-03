@@ -1,0 +1,207 @@
+{
+  "harderores_diamond_rich": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"harderores:ore_harddiamond",
+        "meta": 0,
+        "weight":3
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 1,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 2,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 3,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 4,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 5,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 6,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 7,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 8,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 9,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 10,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 11,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 12,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 13,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 14,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 15,
+        "weight": 5
+      },
+      {
+        "block": "minecraft:stone",
+        "meta": 1,
+        "weight": 20
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 20,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 16,
+    "density": 50,
+    "vertical_size": 10,
+    "horizontal_size": 10,
+    "biomes": [
+      "volcanic_island"
+    ],
+    "dimensions": [
+      "0"
+    ]
+  },
+  "harderores_diamond_lean": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"harderores:ore_harddiamond",
+        "meta": 0,
+        "weight":10
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 1,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 2,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 3,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 4,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 5,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 6,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 7,
+        "weight": 5
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 8,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 9,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 10,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 11,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 12,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 13,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 14,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_harddiamond",
+        "meta": 15,
+        "weight": 2
+      },
+      {
+        "block": "minecraft:stone",
+        "meta": 1,
+        "weight": 20
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 20,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 16,
+    "density": 50,
+    "vertical_size": 10,
+    "horizontal_size": 10,
+    "dimensions": [
+      "0"
+    ]
+  }
+}

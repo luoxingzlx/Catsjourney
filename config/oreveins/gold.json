@@ -1,0 +1,98 @@
+{
+  "harderores_gold": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"harderores:ore_hardgold",
+        "meta": 0,
+        "weight":10
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 1,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 2,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 3,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 4,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 5,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 6,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 7,
+        "weight": 10
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 8,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 9,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 10,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 11,
+        "weight": 3
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 12,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 13,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 14,
+        "weight": 2
+      },
+      {
+        "block": "harderores:ore_hardgold",
+        "meta": 15,
+        "weight": 2
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 40,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 40,
+    "density": 40,
+    "vertical_size": 10,
+    "horizontal_size": 10,
+    "dimensions": [
+      "0",
+    ]
+  },
+}

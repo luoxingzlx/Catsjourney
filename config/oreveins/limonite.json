@@ -1,0 +1,34 @@
+{
+  "harderores_limonite": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"harderores:ore_limonite",
+        "weight":80
+      },
+      {
+        "block":"magneticraft:ores",
+        "meta": 4,
+        "weight":20
+      }
+    ],
+    "stone": "minecraft:clay",
+    "rarity": 10,
+    "count": 1,
+    "min_y": 50,
+    "max_y": 70,
+    "density": 80,
+    "vertical_size": 10,
+    "horizontal_size": 10,
+    "biomes": [
+      "swamp",
+      "dead_swamp",
+      "lush_swamp",
+      "river",
+      "frozen_river"
+    ],
+    "dimensions": [
+      "0"
+    ]
+  }
+}

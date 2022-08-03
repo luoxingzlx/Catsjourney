@@ -1,0 +1,33 @@
+{
+  "emerald": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"minecraft:emerald_ore",
+        "weight":70
+      },
+      {
+        "block":"minecraft:monster_egg",
+        "weight":30
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 20,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 140,
+    "density": 50,
+    "vertical_size": 10,
+    "horizontal_size": 10,
+    "biomes": [
+      "taiga_m",
+      "taiga_hills"
+      "taiga",
+      "mountain",
+      "mountain_foothills"
+    ],
+    "dimensions": [
+      "0"
+    ]
+  }
+}

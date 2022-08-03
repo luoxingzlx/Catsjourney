@@ -161,11 +161,51 @@
       "spawn": true
     },
     {
-      "entity": "primal:ovis_atre",
-      "creatureType": "creature",
-      "weight": 90,
+      "entity": "quark:foxhound",
+      "creatureType": "monster",
+      "weight": 10,
       "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "quark:wraith",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 4,
       "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:succubus",
+      "creatureType": "monster",
+      "weight": 32,
+      "minGroupCount": 2,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:wither_cow",
+      "creatureType": "monster",
+      "weight": 16,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "grimoireofgaia:baphomet",
+      "creatureType": "monster",
+      "weight": 16,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "techguns:tgdummyspawn",
+      "creatureType": "monster",
+      "weight": 300,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
       "spawn": true
     }
   ],

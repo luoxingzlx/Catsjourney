@@ -1,0 +1,17 @@
+/*ess
+药水扩散器(crash)
+<essentialcraft:potionspreader>
+终极自然熔炉(crash)
+<essentialcraft:ultraflowerburner>
+魔力执行器(无效)
+<essentialcraft:rightclicker>
+<essentialcraft:rightclicker:1>
+<essentialcraft:rightclicker:2>
+<essentialcraft:rightclicker:3>
+<essentialcraft:rightclicker:4>
+<essentialcraft:rightclicker:5>
+魔力灯笼(卡)
+<essentialcraft:magicallantern>
+魔力建筑之杖(crash)
+<essentialcraft:magicalbuilder>
+*/

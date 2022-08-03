@@ -7,8 +7,8 @@
   "guiColour": 13413215,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,
-  "variationBelow": 6.0,
-  "variationAbove": 20.0,
+  "variationBelow": 8.0,
+  "variationAbove": 8.0,
   "waterColor": 16777215,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
@@ -24,7 +24,7 @@
       "variant": "sandy"
     }
   },
-  "averageHeight": 70.0,
+  "averageHeight": 90.0,
   "topBlock": {
     "block": "biomesoplenty:grass",
     "properties": {

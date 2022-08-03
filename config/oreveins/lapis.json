@@ -1,0 +1,27 @@
+{
+  "lapis": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block":"minecraft:lapis_ore",
+        "weight":70
+      },
+      {
+        "block":"magneticraft:ores",
+        "meta": 4,
+        "weight":30
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 40,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 60,
+    "density": 50,
+    "vertical_size": 16,
+    "horizontal_size": 10,
+    "dimensions": [
+      "0"
+    ]
+  }
+}
